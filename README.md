@@ -17,7 +17,7 @@ He is a young professional in engineering who is looking for an exciting embedde
 
 - 💻 C | C++ | Python | VHDL | Verilog | [Bluespec](https://github.com/B-Lang-org/bsc)
 - 🔧 Git | Vim | Markdown | VSCode
-- 🤖 Linux | PetaLinux | Xilinx FPGA
+- 🤖 Linux | Yocto | PetaLinux | Xilinx FPGA
 
 ## Summary 📊
 
