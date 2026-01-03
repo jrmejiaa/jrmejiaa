@@ -2,7 +2,7 @@
 
 Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/jairo-mejia/). I am always happy to talk, answer questions, or discuss new opportunities.
 
-**Who is Jairo R. Mejia Aponte?**
+**Who is Jairo Mejia?**
 
 He is a young professional in engineering who is looking for an exciting embedded software development position to contribute to facing climate change, our biggest challenge nowadays, by implementing products that eventually lead to reducing our footprint. Developer with practical experience with up-to-date technologies through an internship in NI Dresden on FPGA architecture, also working as an engineer for the 4G/5G open-source program of NTT Data. Currently working as Embedded Software Developer for Yocto-based embedded systems in Netmodule Germany.
 
