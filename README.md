@@ -22,6 +22,6 @@ He is a young professional in engineering who is looking for an exciting embedde
 
 ## Summary 📊
 
-[![jrmejiaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrmejiaa&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jrmejiaa/)
+![jrmejiaa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jrmejiaa&show_icons=true&theme=tokyonight)
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmejiaa&layout=compact&theme=tokyonight)](https://github.com/jrmejiaa/)
+![Top used Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jrmejiaa&layout=compact&theme=tokyonight)
